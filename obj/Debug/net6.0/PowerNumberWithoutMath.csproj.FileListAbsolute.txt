@@ -1,0 +1,15 @@
+/home/saint/Desktop/PowerNumberWithoutMath/bin/Debug/net6.0/PowerNumberWithoutMath
+/home/saint/Desktop/PowerNumberWithoutMath/bin/Debug/net6.0/PowerNumberWithoutMath.deps.json
+/home/saint/Desktop/PowerNumberWithoutMath/bin/Debug/net6.0/PowerNumberWithoutMath.runtimeconfig.json
+/home/saint/Desktop/PowerNumberWithoutMath/bin/Debug/net6.0/PowerNumberWithoutMath.dll
+/home/saint/Desktop/PowerNumberWithoutMath/bin/Debug/net6.0/PowerNumberWithoutMath.pdb
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.csproj.AssemblyReference.cache
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.AssemblyInfoInputs.cache
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.AssemblyInfo.cs
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.dll
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/refint/PowerNumberWithoutMath.dll
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.pdb
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/PowerNumberWithoutMath.genruntimeconfig.cache
+/home/saint/Desktop/PowerNumberWithoutMath/obj/Debug/net6.0/ref/PowerNumberWithoutMath.dll
